@@ -1,4 +1,4 @@
-# Pytorch challenge final project from Udacity
+# PyTorch challenge final project from Udacity
 Final Challenge Project for PyTorch Scholarship Challenge Nanodegree Program
 
 ## The Dataset
