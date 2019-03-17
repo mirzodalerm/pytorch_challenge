@@ -2,3 +2,4 @@
 flower_data/
 flower_data.zip
 example.ipynb
+model_vgg16_tl.pth
